@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/JordanSantiagoYT/Mods-for-JS-Engine">
+<img alt="GitHub repo size" src="https://github.com/affsvoyo/Mods-for-JS-Engine/">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/JordanSantiagoYT/Mods-for-JS-Engine">
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/JordanSantiagoYT/Mods-for-JS-Engine">
 </p>
